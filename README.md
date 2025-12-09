@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o pedro-pglp!
 
-Estudo no **IFNMG - Campus Montes Claros**, no curso **Técnico em Informática Integrado ao Ensino Médio**, e utilizo este GitHub para registrar meus projetos, exercícios e aprendizados na área de TI.
+Atualmente estou estudando no **IFNMG - Campus Montes Claros**, no curso **Técnico em Informática Integrado ao Ensino Médio**, e utilizo este GitHub para registrar meus projetos, exercícios e aprendizados na área de TI.
 
 ### 🔧 Estudando:
 - Programação   
