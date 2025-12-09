@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá, eu sou o pedro-pglp!
 
-<!--
-**pedro-pglp/pedro-pglp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudo no **IFNMG - Campus Montes Claros**, no curso **Técnico em Informática Integrado ao Ensino Médio**, e utilizo este GitHub para registrar meus projetos, exercícios e aprendizados na área de TI.
 
-Here are some ideas to get you started:
+### 🔧 Estudando:
+- Programação   
+- Redes  
+- Banco de dados  
+- Ferramentas como Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contato:
+pedrog.lopespinheiro@gmmail.com
+
+https://www.linkedin.com/in/pedro-gonçalves-lopes-pinheiro/
+
+---
+
+👨‍💻 Confira meus repositórios!
