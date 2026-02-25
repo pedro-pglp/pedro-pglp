@@ -3,7 +3,7 @@
 Atualmente estou estudando no **IFNMG - Campus Montes Claros**, no curso **Técnico em Informática Integrado ao Ensino Médio**, e utilizo este GitHub para registrar meus projetos, exercícios e aprendizados na área de TI.
 
 ### 🔧 Estudando:
-- Programação   
+- Linguagens de programação C, C#, HTML   
 - Redes  
 - Banco de dados  
 - Ferramentas como Git e GitHub
